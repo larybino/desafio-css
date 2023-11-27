@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swa');
+
+* {
+  font-family: 'Playfair Display', sans-serif;
+  box-sizing: border-box;
+  margin: 0;
+}
